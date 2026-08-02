@@ -8,11 +8,12 @@ export default function OwnerCard({ owner, reverse }: { owner: Owner; reverse?: 
         reverse ? "md:flex-row-reverse" : ""
       }`}
     >
-      <div className="relative h-72 w-full md:h-auto md:w-72 md:shrink-0">
+      <div className="relative h-72 w-full shrink-0 md:h-80 md:w-72">
         <Image
           src={owner.photo}
           alt={owner.name}
           fill
+          sizes="(max-width: 768px) 100vw, 288px"
           className="object-cover"
         />
       </div>

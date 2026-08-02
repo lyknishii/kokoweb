@@ -9,7 +9,7 @@ export const owners: Owner[] = [
   {
     name: "LEVI",
     role: "Owner & main designer",
-    photo: "/owners/levi",
+    photo: "/owners/levi.jpg",
     details: [
       { label: "Speaks", value: "English, Spanish, Valencian, French" },
       { label: "Pronouns", value: "She/her" },
@@ -22,7 +22,7 @@ export const owners: Owner[] = [
   {
     name: "NISHI",
     role: "Developer and designer",
-    photo: "/owners/nishi",
+    photo: "/owners/nishi.jpg",
     details: [
       { label: "Speaks", value: "English, Spanish, Basque" },
       { label: "Pronouns", value: "He/him" },

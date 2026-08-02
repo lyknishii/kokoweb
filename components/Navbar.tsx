@@ -3,10 +3,10 @@ import Image from "next/image";
 import AuthButton from "./AuthButton";
 
 const navLinks = [
-  { label: "Pricing", href: "/pricing" },
   { label: "Updates", href: "/updates" },
-  { label: "Jump", href: "/jump" },
   { label: "Countdown", href: "/countdown" },
+  { label: "Owners", href: "/owners" },
+];
 ];
 
 export default function Navbar() {

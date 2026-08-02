@@ -7,7 +7,6 @@ const navLinks = [
   { label: "Countdown", href: "/countdown" },
   { label: "Owners", href: "/owners" },
 ];
-];
 
 export default function Navbar() {
   return (

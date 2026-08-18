@@ -21,15 +21,15 @@ export const owners: Owner[] = [
   },
   {
     name: "NISHI",
-    role: "Developer and designer",
+    role: "Developer & designer",
     photo: "/owners/nishi.jpg",
     details: [
       { label: "Speaks", value: "English, Spanish, Basque" },
       { label: "Pronouns", value: "He/him" },
       { label: "Birthday", value: "March 6th" },
-      { label: "Likes", value: "Morat, En Tol Sarmiento, Billie Eilish, Adele, Ariana Grande, FLO" },
+      { label: "Likes", value: "Billie Eilish, Tobii, tpop, TutorYim" },
       { label: "Ults", value: "AMPERS&ONE (Kamden), AHOF (Chihen, Jeongwoo, Han), LNGSHOT (Woojin), CORTIS (Juhoon)" },
-      { label: "Fun facts", value: "Is colorblind, loves watching Thai BL series, and ABSOLUTELY LOVES LAPONE Ent. boygroups (INI, DXTEEN, JO1)" },
+      { label: "Fun facts", value: "Is colorblind, loves watching Thai BL series, and thanks to Koko bot will be able to learn programming." },
     ],
   },
 ];
